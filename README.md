@@ -1,2 +1,0 @@
-# Desiree-portfolio
-personal portfolio
